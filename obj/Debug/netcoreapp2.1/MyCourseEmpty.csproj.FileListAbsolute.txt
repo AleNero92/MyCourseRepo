@@ -1,0 +1,16 @@
+C:\Progetti VSCode\.NET Core\MyCourseEmpty\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Progetti VSCode\.NET Core\MyCourseEmpty\bin\Debug\netcoreapp2.1\MyCourseEmpty.deps.json
+C:\Progetti VSCode\.NET Core\MyCourseEmpty\bin\Debug\netcoreapp2.1\MyCourseEmpty.runtimeconfig.json
+C:\Progetti VSCode\.NET Core\MyCourseEmpty\bin\Debug\netcoreapp2.1\MyCourseEmpty.runtimeconfig.dev.json
+C:\Progetti VSCode\.NET Core\MyCourseEmpty\bin\Debug\netcoreapp2.1\MyCourseEmpty.dll
+C:\Progetti VSCode\.NET Core\MyCourseEmpty\bin\Debug\netcoreapp2.1\MyCourseEmpty.pdb
+C:\Progetti VSCode\.NET Core\MyCourseEmpty\obj\Debug\netcoreapp2.1\MyCourseEmpty.csprojAssemblyReference.cache
+C:\Progetti VSCode\.NET Core\MyCourseEmpty\obj\Debug\netcoreapp2.1\MyCourseEmpty.AssemblyInfoInputs.cache
+C:\Progetti VSCode\.NET Core\MyCourseEmpty\obj\Debug\netcoreapp2.1\MyCourseEmpty.AssemblyInfo.cs
+C:\Progetti VSCode\.NET Core\MyCourseEmpty\obj\Debug\netcoreapp2.1\MyCourseEmpty.csproj.CoreCompileInputs.cache
+C:\Progetti VSCode\.NET Core\MyCourseEmpty\obj\Debug\netcoreapp2.1\MyCourseEmpty.RazorAssemblyInfo.cache
+C:\Progetti VSCode\.NET Core\MyCourseEmpty\obj\Debug\netcoreapp2.1\MyCourseEmpty.RazorAssemblyInfo.cs
+C:\Progetti VSCode\.NET Core\MyCourseEmpty\obj\Debug\netcoreapp2.1\MyCourseEmpty.RazorTargetAssemblyInfo.cache
+C:\Progetti VSCode\.NET Core\MyCourseEmpty\obj\Debug\netcoreapp2.1\MyCourseEmpty.dll
+C:\Progetti VSCode\.NET Core\MyCourseEmpty\obj\Debug\netcoreapp2.1\MyCourseEmpty.pdb
+C:\Progetti VSCode\.NET Core\MyCourseEmpty\obj\Debug\netcoreapp2.1\MyCourseEmpty.genruntimeconfig.cache
